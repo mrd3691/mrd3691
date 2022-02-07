@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ developing
 - 🌱 I’m currently learning Embedded systems
 - 📫 m.rasool.dabaghian@gmail.com
-www.linkedin.com/in/dabbaghian
+- linkedin www.linkedin.com/in/dabbaghian
 
 <!---
 mrd3691/mrd3691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
