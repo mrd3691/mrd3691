@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrd3691
-- 👀 I’m interested in C++ developing
-- 🌱 I’m currently learning Embedded systems
+- 👀 I’m interested in Flutter developing
 - 📫 m.rasool.dabaghian@gmail.com
 - linkedin www.linkedin.com/in/dabbaghian
 
